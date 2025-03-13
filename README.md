@@ -1,6 +1,9 @@
 ## 2D Random Walk
 A basic SDL2 simulation of 2D Random Walk for a determined number of pixels (Ants)
 
+## MakeFile
+- Made for Mac with homebrew, SDL2 and SDL_ttf pre-installed
+
 ### Optional Configs
 #### In RandomWalk.cpp, *Under Includes*
 - Number of Ants: **INT**
